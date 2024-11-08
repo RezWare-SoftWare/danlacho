@@ -1,7 +1,7 @@
-<h1 align="center">Rizve</h1>
+<h1 align="center">danlacho</h1>
 <div align="center">
   <h5>Self Taught Programmer</h5>
-  <h6>Driven by curiosity, I’m always discovering new things and growing along the way.</h6>
+  <h6>RezWare owner</h6>
 </div>
 <div align="center">
   <h3>Languages</h3>
